@@ -24,3 +24,4 @@ Introduction to Quantum Computing and Quantum Algorithms with IBM Qiskit and D-W
 
 ### Quantum Computing Notebooks
 1. Shree Bhattarai: https://github.com/plasmicshree/QuantumComputing
+2. Ghanashyam Khanal: https://gitlab.com/khanalg44/quantum_computing

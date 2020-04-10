@@ -22,4 +22,5 @@ Introduction to Quantum Computing and Quantum Algorithms with IBM Qiskit and D-W
 1. http://ctan.math.washington.edu/tex-archive/graphics/pgf/contrib/quantikz/quantikz.pdf
 2. https://github.com/qpic/qpic
 
-
+### Quantum Computing Notebooks
+1. Shree Bhattarai: https://github.com/plasmicshree/QuantumComputing
